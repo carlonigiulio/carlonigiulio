@@ -27,9 +27,6 @@
 - 🌱 I’m currently learning how to serve node.js as an API endpoint for a PHP backend  
   
 
-- ⚡ Fun fact: I'm currently running my project server at home, so it's powered on just in the afternoons  
-
-
 </td><td valign="top" width="50%">
 
 
